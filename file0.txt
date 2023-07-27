@@ -1,1 +1,2 @@
 hello file 0
+I already bug fixed
